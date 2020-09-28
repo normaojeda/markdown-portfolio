@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Etiqueta marrón](https://raw.githubusercontent.com/normaojeda/fcc-projects-files/master/tag-brown.png)
